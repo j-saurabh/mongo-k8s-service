@@ -1,2 +1,2 @@
 # mongo-k8s-service
-Create a mongodb service with kubernetes. 
+Files to create a mongodb cluster on kubernetes.   
